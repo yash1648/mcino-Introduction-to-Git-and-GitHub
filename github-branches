@@ -1,0 +1,5 @@
+git branch -vv
+
+* bug-fix-revert 8bd8d53 [origin/bug-fix-revert] Bug-fix-revert pr
+  bug-fix-typo   9ad5dda Bug fixed for the typo
+  main           9ad5dda [origin/main: ahead 1] Bug fixed for the typo
